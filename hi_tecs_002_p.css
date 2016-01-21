@@ -1,0 +1,191 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc08               { /* Common */
+	border          :   0.00pt none #f0c61c;
+	clip            : rect(0.00pt,636.00pt,0.75pt,0.00pt);
+	}
+.cc09               { /* Common */
+	font            : 7pt 'Arial', Helvetica, sans-serif;
+	color           : #f0c61c;
+	}
+.cc10               { /* Common */
+	font            : bold 50pt 'Courier New', monospace;
+	color           : #400000;
+	text-align      : center;
+	}
+span#e22            { /* hi_tecs002019.gif */
+	background      : transparent url(hi_tecs002019.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 634.50pt;
+	width           : 636.00pt;
+	height          :   0.75pt;
+	}
+div#e21             { /* © 2014 PELLSTON ROBOTICS... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 639.00pt;
+	width           : 161.25pt;
+	height          :  11.25pt;
+	}
+img#e20             { /* hi_tecs002018.jpg */
+	position        : absolute;
+	left            : 228.00pt;
+	top             : 121.50pt;
+	width           : 143.25pt;
+	height          :  95.25pt;
+	}
+img#e19             { /* hi_tecs002017.jpg */
+	position        : absolute;
+	left            : 387.75pt;
+	top             : 122.25pt;
+	width           : 143.25pt;
+	height          :  96.00pt;
+	}
+img#e18             { /* hi_tecs002016.jpg */
+	position        : absolute;
+	left            : 387.75pt;
+	top             : 222.00pt;
+	width           : 143.25pt;
+	height          :  96.00pt;
+	}
+img#e17             { /* hi_tecs002015.jpg */
+	position        : absolute;
+	left            : 228.00pt;
+	top             : 423.75pt;
+	width           : 143.25pt;
+	height          :  95.25pt;
+	}
+img#e16             { /* hi_tecs002014.jpg */
+	position        : absolute;
+	left            : 708.00pt;
+	top             : 322.50pt;
+	width           : 143.25pt;
+	height          :  95.25pt;
+	}
+img#e15             { /* hi_tecs002013.jpg */
+	position        : absolute;
+	left            : 390.00pt;
+	top             : 527.25pt;
+	width           : 143.25pt;
+	height          :  95.25pt;
+	}
+img#e14             { /* hi_tecs002012.jpg */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 321.75pt;
+	width           : 142.50pt;
+	height          :  95.25pt;
+	}
+img#e13             { /* hi_tecs002011.jpg */
+	position        : absolute;
+	left            : 228.00pt;
+	top             : 220.50pt;
+	width           : 143.25pt;
+	height          :  96.00pt;
+	}
+img#e12             { /* hi_tecs002010.jpg */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 121.50pt;
+	width           : 142.50pt;
+	height          :  95.25pt;
+	}
+img#e11             { /* hi_tecs002009.jpg */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 220.50pt;
+	width           : 142.50pt;
+	height          :  96.00pt;
+	}
+img#e10             { /* hi_tecs002008.jpg */
+	position        : absolute;
+	left            : 390.75pt;
+	top             : 423.75pt;
+	width           : 143.25pt;
+	height          :  95.25pt;
+	}
+img#e9              { /* hi_tecs002007.jpg */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 527.25pt;
+	width           : 142.50pt;
+	height          :  98.25pt;
+	}
+img#e8              { /* hi_tecs002006.jpg */
+	position        : absolute;
+	left            : 387.75pt;
+	top             : 322.50pt;
+	width           : 143.25pt;
+	height          :  96.00pt;
+	}
+img#e7              { /* hi_tecs002005.jpg */
+	position        : absolute;
+	left            : 228.00pt;
+	top             : 321.75pt;
+	width           : 143.25pt;
+	height          :  95.25pt;
+	}
+img#e6              { /* hi_tecs002004.jpg */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 423.75pt;
+	width           : 142.50pt;
+	height          :  95.25pt;
+	}
+img#e5              { /* hi_tecs002003.jpg */
+	position        : absolute;
+	left            : 708.00pt;
+	top             : 424.50pt;
+	width           : 143.25pt;
+	height          :  95.25pt;
+	}
+img#e4              { /* hi_tecs002002.jpg */
+	position        : absolute;
+	left            : 708.00pt;
+	top             : 121.50pt;
+	width           : 143.25pt;
+	height          :  96.00pt;
+	}
+img#e3              { /* hi_tecs002001.jpg */
+	position        : absolute;
+	left            : 708.00pt;
+	top             : 221.25pt;
+	width           : 143.25pt;
+	height          :  96.00pt;
+	}
+h1#e2               { /* PELLSTON ROBOTICS\ \THE ... */
+	position        : absolute;
+	left            : 210.75pt;
+	top             :   6.00pt;
+	width           : 636.00pt;
+	height          : 121.50pt;
+	}
+div#e1              { /* Main */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :   9.75pt;
+	width           :  57.00pt;
+	height          :  33.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffcc00;
+	background-image: url(hi_tecs002b01.jpg);
+	position        : relative;
+	width           :1057.50pt;
+	height          : 675.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffcc00;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

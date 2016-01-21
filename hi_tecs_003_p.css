@@ -1,0 +1,121 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc11               { /* Common */
+	border          :   0.00pt none #f0c61c;
+	clip            : rect(0.00pt,636.00pt,0.75pt,0.00pt);
+	}
+.cc12               { /* Common */
+	font            : 7pt 'Arial', Helvetica, sans-serif;
+	color           : #ffff80;
+	}
+.cc13               { /* Common */
+	font            : bold 36pt 'Courier New', monospace;
+	color           : #400000;
+	text-align      : center;
+	}
+.cc14               { /* Common */
+	font            : 30pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc15               { /* Common */
+	font            : 21pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc16               { /* Common */
+	font            : bold 70pt 'Courier New', monospace;
+	color           : #400000;
+	text-align      : center;
+	}
+span#e10            { /* hi_tecs003003.gif */
+	background      : transparent url(hi_tecs003003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 634.50pt;
+	width           : 636.00pt;
+	height          :   0.75pt;
+	}
+div#e9              { /* © 2014 PELLSTON ROBOTICS... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 639.00pt;
+	width           : 161.25pt;
+	height          :  11.25pt;
+	}
+div#e8              { /* Would like to say Thank ... */
+	position        : absolute;
+	left            : 115.50pt;
+	top             : 124.50pt;
+	width           : 819.75pt;
+	height          :  42.00pt;
+	}
+img#e7              { /* hi_tecs003002.png */
+	position        : absolute;
+	left            : 196.50pt;
+	top             : 257.25pt;
+	width           : 276.00pt;
+	height          :  66.75pt;
+	}
+img#e6              { /* hi_tecs003001.jpg */
+	position        : absolute;
+	left            : 195.00pt;
+	top             : 342.75pt;
+	width           : 273.75pt;
+	height          :  92.25pt;
+	}
+div#e5              { /* Moeller Aerospace Techno... */
+	position        : absolute;
+	left            : 164.25pt;
+	top             : 195.75pt;
+	width           : 474.00pt;
+	height          :  37.50pt;
+	}
+div#e4              { /* Thomson's Management, In... */
+	position        : absolute;
+	left            : 193.50pt;
+	top             : 446.25pt;
+	width           : 279.75pt;
+	height          :  36.75pt;
+	}
+div#e3              { /* Ace Welding & Machine In... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 486.75pt;
+	width           : 286.50pt;
+	height          :  54.00pt;
+	}
+h1#e2               { /* THE ICE BOTS  */
+	position        : absolute;
+	left            :  50.25pt;
+	top             :  15.00pt;
+	width           : 690.00pt;
+	height          :  79.50pt;
+	}
+div#e1              { /* Main */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :   9.75pt;
+	width           :  57.00pt;
+	height          :  33.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffcc00;
+	background-image: url(hi_tecs003b01.jpg);
+	position        : relative;
+	width           :1057.50pt;
+	height          : 675.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffcc00;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,72 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc21               { /* Common */
+	border          :   0.00pt none #f0c61c;
+	clip            : rect(0.00pt,636.00pt,0.75pt,0.00pt);
+	}
+.cc22               { /* Common */
+	font            : 7pt 'Arial', Helvetica, sans-serif;
+	color           : #f0c61c;
+	}
+.cc23               { /* Common */
+	font            : bold 50pt 'Courier New', monospace;
+	color           : #400000;
+	text-align      : center;
+	}
+div#e5              {
+	position        : absolute;
+	left            : 189.75pt;
+	top             : 204.75pt;
+	width           : 252.00pt;
+	height          : 189.75pt;
+	}
+span#e4             { /* hi_tecs005001.gif */
+	background      : transparent url(hi_tecs005001.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 634.50pt;
+	width           : 636.00pt;
+	height          :   0.75pt;
+	}
+div#e3              { /* © 2014 PELLSTON ROBOTICS... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 639.00pt;
+	width           : 161.25pt;
+	height          :  11.25pt;
+	}
+div#e2              { /* Main */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :   9.75pt;
+	width           :  57.00pt;
+	height          :  33.00pt;
+	}
+h1#e1               { /* PELLSTON ROBOTICS\ \THE ... */
+	position        : absolute;
+	left            : 162.00pt;
+	top             :   7.50pt;
+	width           : 782.25pt;
+	height          : 165.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffcc00;
+	background-image: url(hi_tecs005b01.jpg);
+	position        : relative;
+	width           :1057.50pt;
+	height          : 675.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffcc00;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

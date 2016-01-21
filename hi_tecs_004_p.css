@@ -1,0 +1,91 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc17               { /* Common */
+	border          :   0.00pt none #f0c61c;
+	clip            : rect(0.00pt,636.00pt,0.75pt,0.00pt);
+	}
+.cc18               { /* Common */
+	font            : 7pt 'Arial', Helvetica, sans-serif;
+	color           : #f0c61c;
+	}
+.cc19               { /* Common */
+	font            : bold 41pt 'Courier New', monospace;
+	color           : #400000;
+	text-align      : center;
+	}
+.cc20               { /* Common */
+	font            : bold 50pt 'Courier New', monospace;
+	color           : #400000;
+	text-align      : center;
+	}
+span#e7             { /* hi_tecs004003.gif */
+	background      : transparent url(hi_tecs004003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 634.50pt;
+	width           : 636.00pt;
+	height          :   0.75pt;
+	}
+div#e6              { /* © 2014 PELLSTON ROBOTICS... */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 639.00pt;
+	width           : 161.25pt;
+	height          :  11.25pt;
+	}
+div#e5              { /* In The News!  */
+	position        : absolute;
+	left            : 252.75pt;
+	top             : 125.25pt;
+	width           : 578.25pt;
+	height          :  41.25pt;
+	}
+img#e4              { /* hi_tecs004002.jpg */
+	position        : absolute;
+	left            : 334.50pt;
+	top             : 252.00pt;
+	width           : 383.25pt;
+	height          :  89.25pt;
+	}
+img#e3              { /* hi_tecs004001.png */
+	position        : absolute;
+	left            : 334.50pt;
+	top             : 367.50pt;
+	width           : 405.75pt;
+	height          :  73.50pt;
+	}
+h1#e2               { /* PELLSTON ROBOTICS\ \THE ... */
+	position        : absolute;
+	left            : 162.00pt;
+	top             :   7.50pt;
+	width           : 782.25pt;
+	height          : 114.75pt;
+	}
+div#e1              { /* Main */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :   9.75pt;
+	width           :  57.00pt;
+	height          :  33.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffcc00;
+	background-image: url(hi_tecs004b01.jpg);
+	position        : relative;
+	width           :1057.50pt;
+	height          : 675.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffcc00;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/
